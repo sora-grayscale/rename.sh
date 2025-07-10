@@ -44,7 +44,7 @@ sudo yum install perl-Image-ExifTool
 
 ```bash
 # スクリプトをダウンロード
-curl -O https://example.com/rename.sh
+curl -O https://raw.githubusercontent.com/sora-grayscale/rename.sh/main/rename.sh
 
 # 実行権限を付与
 chmod +x rename.sh
